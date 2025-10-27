@@ -19,7 +19,7 @@ show_minimal: false             # remove all clutter
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "LillianCV.pdf", title: "CV", sidebaricon: home}
-  - {file: "research.md", title: "Research", sidebaricon: address-card}
+  - {file: "blog.md", title: "Blog", sidebaricon: address-card}
   - {title: "Google Scholar", url: "https://scholar.google.com/citations?user=F4FMwhsAAAAJ&hl=en"}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
