@@ -18,8 +18,9 @@ show_minimal: false             # remove all clutter
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "archive.html", title: "Home Change", sidebaricon: home}
-  - {file: "README.md", title: "About me", sidebaricon: address-card}
+  - {file: "lillianCV.pdf", title: "CV", sidebaricon: home}
+  - {file: "research.md", title: "Research", sidebaricon: address-card}
+  - {title: "Google Scholar", url: "https://scholar.google.com/citations?user=F4FMwhsAAAAJ&hl=en"}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:lbhwyatt@caltech.edu"}
